@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Albon.TechnicalToolsSharedKernel</Title>
+    <PackageProjectUrl>https://github.com/alex892-droid/TechnicalToolsSharedKernel</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alex892-droid/TechnicalToolsSharedKernel</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>

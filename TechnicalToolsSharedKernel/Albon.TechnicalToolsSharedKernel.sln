@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalToolsSharedKernel", "TechnicalToolsSharedKernel\TechnicalToolsSharedKernel.csproj", "{7D57A26B-8C7B-41EB-BBB2-157C6A51D91E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Albon.TechnicalToolsSharedKernel", "TechnicalToolsSharedKernel\Albon.TechnicalToolsSharedKernel.csproj", "{7D57A26B-8C7B-41EB-BBB2-157C6A51D91E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
